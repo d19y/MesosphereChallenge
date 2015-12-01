@@ -89,20 +89,20 @@ FCFS vs MinWaitTime
 
 
                           bestcase 	 p50 	 p90 	 p99 	 worstcase
-* Random events
+Random events
 FCFSElevator                    	1 	6 	 10 	 14 	 15
 MinWaitTimeElevator:            	1 	4 	 8 	   15 	15
 
 
-* Morning rush
+Morning rush
 FCFSElevator                    	1 	16 	 24 	29 	  30
 MinWaitTimeElevator:            	1 	 3 	  6 	 9 	  10
 
-* Evacuate building
+Evacuate building
 FCFSElevator                    	2 	13 	 24 	 30 	 30
 MinWaitTimeElevator:            	1 	 5 	 17 	 22 	 22
 
-* Sudden spike @ t=20
+Sudden spike @ t=20
 FCFSElevator                    	2   21 	 34 	 37 	 40
 MinWaitTimeElevator:            	1 	8 	 16 	 18 	 19
 
