@@ -1,3 +1,5 @@
+<pre>
+
 Start time : 8:50 AM
 
 Python version used : 2.7
@@ -116,3 +118,5 @@ How ever the fulfilment_times are correct.
 Possible enhancements :
 
 If multiple elevators are idle move them as far as possible to reduce the access time.
+
+</pre>
