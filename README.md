@@ -11,7 +11,7 @@ sudo pip install pyyaml
 
 To run the program
 
-python elevator.py <events_yaml_file> [interactive]
+python elevator.py events_yaml_file [interactive]
 
 This would print the status similar to
 
